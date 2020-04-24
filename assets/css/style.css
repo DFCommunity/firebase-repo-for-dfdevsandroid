@@ -1,0 +1,18 @@
+.tittle {
+    background-attachment: fixed;
+    background-color: #ffa432;
+}
+
+#tittlefont {
+    color: azure;
+}
+
+.back {
+    background-image: url(assets\img\back.jpg);
+    background-attachment: fixed;
+    background-color: #1e2c24;
+}
+
+.font1 {
+    color: azure;
+}
